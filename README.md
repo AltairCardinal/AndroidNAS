@@ -35,6 +35,7 @@ https://zhuanlan.zhihu.com/p/467521410
 
 ## 如何在外网访问安卓设备中的NAS服务
 xray + ngnix
+alpine的xray服务脚本https://github.com/XTLS/alpinelinux-install-xray/blob/main/init.d/xray
 
 
 
