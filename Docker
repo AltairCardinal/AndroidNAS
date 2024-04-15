@@ -1,0 +1,3 @@
+对docker运行的镜像发送命令的方式：
+docker exec -it <镜像启动时的自定义名称>
+（似乎有可视化管理界面会自动为运行的docker服务设定命令映射，见https://post.smzdm.com/p/awz3249k/）
