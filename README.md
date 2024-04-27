@@ -45,6 +45,7 @@ web:
 - https://sspai.com/post/57699
 - nextcloud
 - samba+transmission+aria2: https://zhuanlan.zhihu.com/p/65451827
+- 荔枝相册：https://github.com/LycheeOrg/Lychee
 
 docker:
 - Photoprism+MariaDB+Photosync：https://post.smzdm.com/p/awz3249k/
