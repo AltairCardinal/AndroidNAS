@@ -28,7 +28,10 @@ https://github.com/BigWanGa/docker-in-termux
 [https://wiki.archlinuxcn.org/wiki/QEMU#%E5%AE%BF%E4%B8%BB%E6%9C%BA%E5%92%8C%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E4%BA%A4%E4%BA%92](https://wiki.archlinuxcn.org/wiki/QEMU#%E5%AE%BF%E4%B8%BB%E6%9C%BA%E5%92%8C%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E4%BA%A4%E4%BA%92)
 https://zhuanlan.zhihu.com/p/55025102
 
-### 4. 重新编译手机固件，开启缺失功能，让系统原生支持docker
+### 4. root后通过linux deploy运行docker
+https://github.com/meefik/linuxdeploy
+
+### 5. 重新编译手机固件，开启缺失功能，让系统原生支持docker
 https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27#2-building
 性能和全能性最高，过程最复杂且不通用（需要有安卓设备的完整开源ROM）
 https://zhuanlan.zhihu.com/p/467521410
