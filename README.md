@@ -73,3 +73,4 @@ app:
 
 # 参考
 https://blog.mahoo12138.cn/2022/01/20/linux-termux/
+https://fanyingmao.github.io/2020/07/31/%E5%88%A9%E7%94%A8%E5%BA%9F%E6%97%A7%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E5%81%9ANAS/
