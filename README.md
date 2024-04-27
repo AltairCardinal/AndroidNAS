@@ -16,6 +16,9 @@ This project does not rule out the possibility of a paid plan, as there is valua
 官网：[https://sspai.com/post/57699](https://www.kslabs.ru/)
 KSWEB标准版内置lighttpd+php+mysql，专业版包括nginx、apache等组件。内置no-ip，可直接配置ddns，自定义二级域名，每次有效期30天
 
+多app
+https://sspai.com/post/71543
+
 ### 2. 在termux下搭建web服务
 1. 安装termux
 2. 自行安装web服务套件，例如nginx+php+mysql等
