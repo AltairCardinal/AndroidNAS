@@ -67,4 +67,9 @@ app:
 
 
 # 实现步骤
-1. 
+
+
+
+
+# 参考
+https://blog.mahoo12138.cn/2022/01/20/linux-termux/
