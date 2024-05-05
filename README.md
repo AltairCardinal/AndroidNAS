@@ -38,6 +38,7 @@ https://github.com/meefik/linuxdeploy
 https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27#2-building
 性能和全能性最高，过程最复杂且不通用（需要有安卓设备的完整开源ROM）
 https://zhuanlan.zhihu.com/p/467521410
+https://github.com/CGCL-codes/Android-Container/blob/main/README_CN.md
 
 ## 如何在外网访问安卓设备中的NAS服务
 xray + ngnix
